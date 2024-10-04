@@ -3,3 +3,9 @@
 
 参考  
 https://milkchoco.info/archives/5493
+
+必要なファイル  
+romcutter.exe  
+BSwap.exe と oddeven.txt  
+
+注意

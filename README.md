@@ -9,3 +9,4 @@ romcutter.exe
 BSwap.exe と oddeven.txt  
 
 注意
+P ROMのところで色々やってるのはバイナリ書き換えが必要なのでromcutter.exeを使って切り貼りしてる。  
